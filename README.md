@@ -1,4 +1,14 @@
                                              YES_BANK_STOCK_PRICE_PREDICTION
+
+
+
+
+
+
+![proj_4](https://github.com/amitverma2325/Yes_Bank_Stock_Closing_Prediction/assets/159435374/41cd8f17-40e7-43d1-b28d-7f043d4229fe)
+
+
+                                             
   
 Regression Capstone Project Yes Bank stock price prediction
 
